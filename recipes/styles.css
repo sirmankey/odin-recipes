@@ -1,0 +1,20 @@
+.title, .descr, .descr2, .ingr, .step{ 
+    text-align:center;
+}
+.parent{
+    text-align:center;
+}
+.bild{
+    width:400px;
+    height:auto;
+}
+.liste{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:burlywood;
+}
